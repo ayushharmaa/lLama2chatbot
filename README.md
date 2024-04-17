@@ -1,4 +1,4 @@
-# lLama2chatbot
+# Llama2chatbot
 ![Screenshot 2024-04-17 174654](https://github.com/ayushharmaa/lLama2chatbot/assets/93790325/fa76c6f4-4c1f-47d1-9542-74cb26ca3835)
 
 
